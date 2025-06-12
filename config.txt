@@ -1,0 +1,6 @@
+# Chat Bot Configuration File
+# Server URL for the REST API
+server.url=http://max.ge/q45/93746182/index.php
+
+# Bot Name that appears during chat
+bot.name=NikolozBot
